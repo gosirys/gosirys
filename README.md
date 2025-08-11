@@ -1,8 +1,9 @@
 ## me
 
-- working and losing my sanity
+working and losing my sanity, this is my little farm:
 
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=gosirys)](https://github.com/marshallku/gitgarden)
+
 
 
 <!--
